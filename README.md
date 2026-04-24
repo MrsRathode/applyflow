@@ -60,21 +60,17 @@ A modern, feature-rich web application built using React and TypeScript to help 
 ## 🚀 Getting Started
 
 ### Clone the repository
+```bash
 git clone https://github.com/MrsRathode/applyflow.git
 cd applyflow
-
-### Install dependencies
+Install dependencies
 npm install
-
-### Run the project
+Run the project
 npm run dev
 
 Open in browser: http://localhost:5173
 
----
-
-## 📂 Project Structure
-
+📂 Project Structure
 applyflow/
 ├── src/
 ├── components/
@@ -84,25 +80,12 @@ applyflow/
 ├── styles/
 ├── public/
 └── package.json
+🚀 Future Enhancements
+Backend integration using Node.js and Express
+Database integration with MongoDB
+Cloud deployment using AWS (EC2, S3)
+User authentication using JWT
+🧑‍💻 Author
 
----
-
-## 🚀 Future Enhancements
-
-- Backend integration using Node.js and Express  
-- Database integration with MongoDB  
-- Cloud deployment using AWS (EC2, S3)  
-- User authentication using JWT  
-
----
-
-## 🧑‍💻 Author
-
-Anusha Banothu  
-GitHub: https://github.com/MrsRathode  
-
----
-
-## ⭐ Final Note
-
-This project demonstrates strong frontend development skills, state management, and UI design. Future improvements will focus on scalability and backend integration to align with real-world software systems.
+Anusha Banothu
+GitHub: https://github.com/MrsRathode
